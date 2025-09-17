@@ -5,20 +5,7 @@ const Footer1 = () => {
     return (
         <footer className="cs_footer cs_style_1 cs_bg_filed cs_heading_bg" data-src="assets/img/footer_bg.jpg">
         <div className="container">
-          <div className="cs_footer_newsletter cs_style_1">
-            <div className="cs_footer_newsletter_left cs_accent_bg cs_center">
-            <Image src="/assets/img/footer_logo.svg" alt="img" width={225} height={65}   />
-            </div>
-            <div className="cs_footer_newsletter_right">
-              <h3 className="cs_fs_24 cs_semibold cs_white_color mb-0">Subscribe now to get latest updates</h3>
-              <form action="#" className="cs_footer_newsletter_form">
-                <input type="text" placeholder="Enter Your Email" />
-                <button className="cs_btn cs_style_1">
-                  <span>Subscribe</span>
-                </button>
-              </form>
-            </div>
-          </div>
+
         </div>
         <div className="cs_main_footer cs_white_color">
           <div className="container">
@@ -88,16 +75,16 @@ const Footer1 = () => {
                   <ul className="cs_footer_contact_list cs_mp_0">
                     <li>
                     <i className="bi bi-geo-alt-fill"></i>
-                      Musaffah - M-6 - Abu Dhabi United Arab Emirates
+                    Al Qusais Industrial Area 2, Dubai
                     </li>
                     <li>
                     <i className="bi bi-telephone-fill"></i>
-                      <a href="tel:+(163)-5565-06979">+(163)-5565-06979</a> <br/>
-                      <a href="tel:+(163)-5565-07989">+(163)-5565-07989</a>
+                      <a href="tel:+(04) 387 3500">Phone: (04) 387 3500</a> <br/>
+                      <a href="tel:+(971)-54 524 8983">WhatsApp: +971 54 524 8983</a>
                     </li>
                     <li>
                     <i className="bi bi-envelope-fill"></i>
-                      <a href="mailto:cripar@gmail.com">cripar@gmail.com</a>
+                      <a href="mailto:cripar@gmail.com">reception@excellenceautorepair.com</a>
                     </li>
                   </ul>
                 </div>
@@ -111,18 +98,11 @@ const Footer1 = () => {
                     <span className="cs_white_bg"></span>
                   </div>
                   <ul className="cs_working_hours">
+                    
                     <li>
-                      <span>Thu - Fri</span>
-                      <span>9:00 AM - 7:00 PM</span>
-                    </li>
-                    <li>
-                      <span>Mon - Wed</span>
-                      <span>8:00 AM - 10:00 PM</span>
-                    </li>
-                    <li>
-                      <span>Saturday</span>
-                      <span>7:00 AM - 9:00 PM</span>
-                    </li>
+                      <span>Mon - Sat</span>
+                      <span>8:00 AM - 06:00 PM</span>
+                    </li>                   
                     <li>
                       <span>Sunday</span>
                       <span>Close</span>
@@ -137,11 +117,9 @@ const Footer1 = () => {
           <div className="container">
             <div className="cs_footer_bottom_in">
               <div className="cs_footer_copyright">
-                Copyright © 2024 <a href="#">Cripar</a>. All Rights Reserved.
+                Copyright © 2025 <a href="#">Excellence Autorepair</a>. All Rights Reserved.
               </div>
-              <div>
-              <Image src="/assets/img/payment_card.svg" alt="img" width={191} height={20}   />
-              </div>
+             
             </div>
           </div>
         </div>

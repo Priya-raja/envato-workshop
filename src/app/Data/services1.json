@@ -1,50 +1,75 @@
 [
   {
-    "img": "/assets/img/service_img_1.jpg",
+    "img": "/assets/img/carcleaning.png",
     "icon": "/assets/img/icons/service_icon_1.svg",
-    "title": "Brake Safe Inspection",
-    "desc": "If your car struggles to start the lights dim when idling or the battery over three years old it may be time",   
+    "title": "Car Cleaning & Detailing",
+    "desc": "Interior & exterior cleaning, polishing, waxing",   
     "btnText": "READ MORE",
     "btnLink": "/service/service-details"
   },
   {
-    "img": "/assets/img/service_img_2.jpg",
+    "img": "/assets/img/carmaintain.png",
     "icon": "/assets/img/icons/service_icon_2.svg",
-    "title": "Engine Tune-Up Plus",
-    "desc": "Proper insulation and ventilation are key  also offer Ice Guard services to prevent ice buildup and damage If your check battery",   
+    "title": "Car Maintenance",
+    "desc": "Oil change, filters, belts, spark plugs, brake pads",   
     "btnText": "READ MORE",
     "btnLink": "/service/service-details"
   },
   {
-    "img": "/assets/img/service_img_3.jpg",
+    "img": "/assets/img/automaintain.png",
     "icon": "/assets/img/icons/service_icon_3.svg",
-    "title": "Battery Boost Check",
-    "desc": "If your check battery light comes on it's best to schedule a diagnostic service as soon as possible to identify address",   
+    "title": "Automotive Maintenance",
+    "desc": "Engine tune-up, transmission service, suspension chec",   
     "btnText": "READ MORE",
     "btnLink": "/service/service-details"
   },
   {
-    "img": "/assets/img/service_img_7.jpg",
+    "img": "/assets/img/carinspection.png",
     "icon": "/assets/img/icons/service_icon_6.svg",
-    "title": "Brake Safe Inspection",
-    "desc": "If your car struggles to start the lights dim when idling or the battery over three years old it may be time",   
+    "title": "Car Inspection ",
+    "desc": "Pre-purchase inspection, RTA inspection support, safety checks",   
     "btnText": "READ MORE",
     "btnLink": "/service/service-details"
   },
   {
-    "img": "/assets/img/service_img_5.jpg",
+    "img": "/assets/img/paintbooth.jpg",
     "icon": "/assets/img/icons/service_icon_4.svg",
-    "title": "Engine Tune-Up Plus",
-    "desc": "Proper insulation and ventilation are key  also offer Ice Guard services to prevent ice buildup and damage If your check battery",   
+    "title": "Body & Paint",
+    "desc": "Accident repairs, paint booth finish, denting & painting",   
+    "btnText": "READ MORE",
+    "btnLink": "/service/service-details"
+  },
+  {
+    "img": "/assets/img/diagnostic.jpg",
+    "icon": "/assets/img/icons/service_icon_5.svg",
+    "title": "Electrical & Diagnostics",
+    "desc": "Computer scanning, ECU programming, hybrid/EV diagnostics",   
+    "btnText": "READ MORE",
+    "btnLink": "/service/service-details"
+  },
+  {
+    "img": "/assets/img/acrepair.webp",
+    "icon": "/assets/img/icons/service_icon_5.svg",
+    "title": "AC Repair",
+    "desc": "Gas refill, cooling system repair",   
+    "btnText": "READ MORE",
+    "btnLink": "/service/service-details"
+  },
+  {
+    "img": "/assets/img/wheelalign.jpg",
+    "icon": "/assets/img/icons/service_icon_5.svg",
+    "title": "Tires & Alignment",
+    "desc": "Tire change, balancing, wheel alignment",   
     "btnText": "READ MORE",
     "btnLink": "/service/service-details"
   },
   {
     "img": "/assets/img/service_img_6.jpg",
     "icon": "/assets/img/icons/service_icon_5.svg",
-    "title": "Battery Boost Check",
-    "desc": "If your check battery light comes on it's best to schedule a diagnostic service as soon as possible to identify address",   
+    "title": "Fleet & Corporate Solutions",
+    "desc": "Packages for rental, transport & company fleets",   
     "btnText": "READ MORE",
     "btnLink": "/service/service-details"
   }  
+
 ]

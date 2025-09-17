@@ -16,16 +16,13 @@ const page = () => {
         <div>
             <HeroBanner1></HeroBanner1>
             <About1
-                img1="/assets/img/about_img_1.jpg"
-                img2="/assets/img/about_img_2.jpg"
-                img3="/assets/img/about_img_3.jpg"
-                expNumber="58"
-                expYers="Years"
-                expTitle="Experience"
+                img1="/assets/img/aboutworking.jpg"
+                img2="/assets/img/aboutfacility.jpg"
+                img3="/assets/img/aboutexterior.jpg"
                 number="(04) 387 3500"
                 subTitle="Our About"
                 Title="Speedy Repairs Quality Results"
-                Content="We are professional and committed to service is a statement that highlights the companys professionalism and dedication to providing"
+                Content="At Excellence Premier Auto Repair LLC, we combine modern technology, expert technicians,and a state-of-the-art facility to deliver quality repairs for all makes and models.With 30,000 sq. ft. of space and 33 working bays, we are equipped to handle mechanical, electrical, accident, body restoration, Tires solutions, and detailing services under one roof"
                 feature1="Express Oil Change"
                 feature2="Quick Fix Tire Rotation"
                 listItem={[
@@ -46,16 +43,8 @@ const page = () => {
                 img2="/assets/img/feature_img_2.jpg"
                 img3="/assets/img/feature_img_3.jpg"
             ></Choose1> 
-            <BeforeAfter 
-                title="Recent Completed Projects"
-                subTitle="Before & after"
-                bgImg="/assets/img/before_after_bg_1.svg"
-                beforeImg="/assets/img/after_img_1.jpg"
-                afterTitle="After"
-                afterImg="/assets/img/before_img_1.jpg"
-                beforeTitle="Before"
-            ></BeforeAfter> 
-            <Project1></Project1> 
+            
+          
             <Contact1
                 Title="Contact Information"
                 subTitle="It is a long established fact that a reader be by the readable distracted  layout."

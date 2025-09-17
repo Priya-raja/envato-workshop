@@ -19,16 +19,10 @@ const About1 = ({img1,img2,img3,expNumber,expYers,expTitle,number,subTitle,Title
                  <Image src={img3} alt="img" width={323} height={231}   />
                  </div>
                  <div className="cs_esperience_text position-absolute">
-                   <h2 className="cs_experience_title mb-0">
-                     <span className="cs_fs_100 cs_black cs_accent_color">{expNumber}</span>
-                     <span className="cs_fs_50">{expYers}</span>
-                     <span className="cs_fs_50 cs_accent_color">{expTitle}</span>
-                   </h2>
+                   
                  </div>
                  <a className="cs_phone_call cs_heading_color">
-                   <div className="cs_phone_icon cs_fs_24 cs_accent_color cs_center cs_radius_50">
-                   <i className="bi bi-telephone-x-fill"></i></div>
-                   <div className="cs_phone_number cs_fs_24 cs_semibold">{number}</div>
+                 
                  </a>
                  <div className="cs_about_shape_1 position-absolute">
                  <Image src="/assets/img/shapes/gear_2.svg" alt="img" width={95} height={95}   />
@@ -71,21 +65,7 @@ const About1 = ({img1,img2,img3,expNumber,expYers,expTitle,number,subTitle,Title
                    </li>
                     ))}
                  </ul>
-                 <div className="cs_about_btns">
-                   <Link href="/about" className="cs_btn cs_style_1 wow fadeInLeft">
-                     <span>Read more</span>
-                     <i className="bi bi-arrow-right"></i>   
-                   </Link>
-                   <div className="cs_avatar cs_style_1 wow fadeInRight">
-                     <div className="cs_avatar_thumbnail cs_center cs_radius_50">
-                     <Image src={avatar} alt="img" width={48} height={48}   />
-                     </div>
-                     <div className="cs_avatar_info">
-                       <h3 className="cs_heading_color cs_fs_18 cs_semibold mb-0">{name}</h3>
-                       <p className="cs_fs_14 mb-0">{designation}</p>
-                     </div>
-                   </div>
-                 </div>
+               
                </div>
              </div>
            </div>

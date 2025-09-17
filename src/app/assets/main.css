@@ -32,7 +32,7 @@
   --black-color:#0C342C;
 
   /* --black-color: #010f34; */
-  --heading-color: #01133c;
+  --heading-color: #0C342C;
   --body-color: #666666;
   --ternary-color: #88a5ad;
   --accent-color: #FFB800;
@@ -6783,7 +6783,8 @@ label {
   display: inline-block;
 }
 .cs_site_branding + .cs_nav {
-  margin-left: 65px;
+  margin-left: 50px;
+
 }
 .cs_header_contact {
   display: flex;
