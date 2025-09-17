@@ -29,13 +29,13 @@
 ----------------------------------------------------------------*/
 :root {
   --white-color: #fff;
-  --black-color:#0C342C;
+  --black-color: #028080;
 
   /* --black-color: #010f34; */
   --heading-color: #0C342C;
   --body-color: #666666;
   --ternary-color: #88a5ad;
-  --accent-color: #FFB800;
+  --accent-color: #FBBC04;
   --gray-color: #f5f7fa;
   --gray2-color: #e8ebee;
   --border-color: #ecf1f5;
@@ -2643,16 +2643,16 @@ textarea {
   height: 2px;
 }
 .cs_pagination.cs_style_1.cs_type_1::before {
-  background: -webkit-gradient(linear, right top, left top, from(#0C342C), to(#FFB800));
-  background: linear-gradient(270deg, #0C342C 0%, #FFB800 100%);
+  background: -webkit-gradient(linear, right top, left top, from(#028080), to(#FBBC04));
+  background: linear-gradient(270deg, #028080 0%, #FBBC04 100%);
   top: 50%;
   left: 62%;
   -webkit-transform: translate(-62%, -50%);
           transform: translate(-62%, -50%);
 }
 .cs_pagination.cs_style_1.cs_type_1::after {
-  background: -webkit-gradient(linear, right top, left top, from(#FFB800), to(#0C342C));
-  background: linear-gradient(270deg, #FFB800 0%, #0C342C 100%);
+  background: -webkit-gradient(linear, right top, left top, from(#FBBC04), to(#028080));
+  background: linear-gradient(270deg, #FBBC04 0%, #028080 100%);
   top: 50%;
   left: 38%;
   -webkit-transform: translate(-38%, -50%);
@@ -7195,7 +7195,7 @@ label {
   top: 0;
 }
 .cs_site_header.cs_style_1 .cs_top_header {
-  background-color: #0C342C;
+  background-color: #028080;
 }
 .cs_site_header.cs_style_1 .cs_top_header_in {
   height: 40px;
