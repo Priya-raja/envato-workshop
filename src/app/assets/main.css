@@ -32,7 +32,7 @@
   --black-color: #028080;
 
   /* --black-color: #010f34; */
-  --heading-color: #0C342C;
+  --heading-color: #028080;
   --body-color: #666666;
   --ternary-color: #88a5ad;
   --accent-color: #FBBC04;
@@ -7195,6 +7195,7 @@ label {
   top: 0;
 }
 .cs_site_header.cs_style_1 .cs_top_header {
+  /* background-color: #0C342C; */
   background-color: #028080;
 }
 .cs_site_header.cs_style_1 .cs_top_header_in {

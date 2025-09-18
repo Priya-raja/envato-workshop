@@ -42,8 +42,8 @@ const Contact1 = ({Title,subTitle,address,email,number,img,clientNumber,client,s
                 <Image src={img} alt="img" width={440} height={292}   />
                 </div>
                 <div className="cs_client_info_wapper cs_white_bg">
-                  <h3 className="cs_fs_30 cs_accent_color">{clientNumber}</h3>
-                  <p className="cs_fs_14 mb-0">{client}</p>
+                  {/* <h3 className="cs_fs_30 cs_accent_color">{clientNumber}</h3> */}
+                  {/* <p className="cs_fs_14 mb-0">{client}</p> */}
                 </div>
               </div>
             </div>

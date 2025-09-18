@@ -30,7 +30,7 @@ const Process = () => {
                 <Image src={item.img} alt="img" width={60} height={60}   />
                 </div>
                 <h3 className="cs_fs_24 cs_semibold cs_mb_10">{item.title}</h3>
-                <p className="mb-0">{item.desc}</p>
+                {/* <p className="mb-0">{item.desc}</p> */}
               </div>
               <svg width="160" height="238" viewBox="0 0 160 238" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M100.821 237.029H72.9299V214.498H100.821C119.567 214.498 134.817 200.855 134.817 184.085V50.8337C134.817 35.2827 120.673 22.6291 103.29 22.6291H5.51724L0 11.3635L5.51724 0.0979004H103.287C134.558 0.0979004 160 22.8579 160 50.8337V184.085C160 213.28 133.452 237.029 100.821 237.029Z" fill="currentColor"/></svg>
               <svg width="186" height="164" viewBox="0 0 186 164" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M176.385 163.309H56.5362C25.362 163.309 0 138.219 0 107.376V7.10943L12.5535 0.555664L25.1071 7.10943V107.376C25.1071 124.521 39.2073 138.472 56.5362 138.472H176.385L186 150.89L176.385 163.309Z" fill="currentColor"/></svg>

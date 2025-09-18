@@ -1,23 +1,33 @@
 [
     {
       "img": "/assets/img/icon1.png",   
-      "title": "Identify Issues",
+      "title": "Vehicle Inspection",
       "desc": "setting for web iterate process before meta services impact"
     },
     {
       "img": "/assets/img/icon2.png",   
-      "title": "Prepare Solution",
+      "title": "Job Card Creation & Estimate",
       "desc": "Getting for web iterate process before meta services impact"
     },
     {
       "img": "/assets/img/icon3.png",   
-      "title": "Working On This",
+      "title": "Customer Approval",
       "desc": "Extensible for web iterate proce before meta services impact"
     },
     {
       "img": "/assets/img/icon4.png",   
-      "title": "Deliver On Hand",
+      "title": " Service & Repairs",
       "desc": "web iterate process before met services impact with olisti"
-    }       
+    },
+    {
+      "img": "/assets/img/icon4.png",   
+      "title": "Quality Check (QC)",
+      "desc": "web iterate process before met services impact with olisti"
+    },
+    {
+      "img": "/assets/img/icon4.png",   
+      "title": "Delivery with Warranty",
+      "desc": "web iterate process before met services impact with olisti"
+    }         
   ]
   

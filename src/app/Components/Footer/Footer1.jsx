@@ -19,7 +19,7 @@ const Footer1 = () => {
                     <span className="cs_white_bg"></span>
                   </div>
                   <div className="cs_text_widget">
-                    <p>Phosfluorescently transform out-of-the-box paradigms whereas accurate supply chains. Continually</p>
+                    <p>At Excellence Premier Auto Repair LLC, we combine modern technology, expert technicians, and a state-of-the-art facility to deliver quality repairs for all makes and models. </p>
                   </div>
                   <div className="cs_social_btns cs_style_1">
                     <a href="#" className="cs_social_btn cs_center">
@@ -45,23 +45,7 @@ const Footer1 = () => {
                     <span className="cs_white_bg"></span>
                     <span className="cs_white_bg"></span>
                   </div>
-                  <ul className="cs_footer_menu">
-                    <li>
-                      <Link href="/service/service-details">Adult In Car Lessons</Link>
-                    </li>
-                    <li>
-                      <Link href="/service/service-details">Defensive Driving</Link>
-                    </li>
-                    <li>
-                      <Link href="/service/service-details">Defensive Driving</Link>
-                    </li>
-                    <li>
-                      <Link href="/service/service-details">Initial driving lesson</Link>
-                    </li>
-                    <li>
-                      <Link href="/service/service-details">Woman Education</Link>
-                    </li>
-                  </ul>
+                 
                 </div>
               </div>
               <div className="cs_footer_col">

@@ -47,10 +47,10 @@ const page = () => {
           
             <Contact1
                 Title="Contact Information"
-                subTitle="It is a long established fact that a reader be by the readable distracted  layout."
-                address="2972 Westheimer Rd. <br/>Santa Ana, Illinois 5486"
-                email="reception@excellenceautorepair.com <br/>reception@excellenceautorepair.com"
-                number="(04) 387 3500 <br/> (04) 387 3500"
+                subtitle="Get in touch"
+                address=" Street 12, Plot no. 2430168,<br/>Al Qusais Industrial Area 2,Dubai, UAE"
+                email="reception@excellenceautorepair.com"
+                number="(04) 387 3500 <br/> Whatsapp: +971 54 5248983"
                 clientNumber="5,400"
                 img="/assets/img/contact_img_1.jpg"
                 client="Happy Clients"
@@ -62,7 +62,7 @@ const page = () => {
                 title="What our clients say <br> About Us"
                 bgImg="/assets/img/testimonial_bg_1.jpg"
             ></Testimonial1>  
-            <Pricing1></Pricing1> 
+           
             <Process></Process>
             <Blog3></Blog3>                                                  
         </div>
